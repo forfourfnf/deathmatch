@@ -4,9 +4,18 @@
 			"Fresh",
 			"dad",
 			[
-				255,
-				0,
-				60
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Dad Battle",
+			"dad",
+			[
+				146,
+				113,
+				253
 			]
 		]
 	],
@@ -17,7 +26,7 @@
 	],
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
-	"storyName": "Corruption",
+	"storyName": "Your New Week",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
@@ -27,5 +36,5 @@
 	"startUnlocked": true,
 	"hideStoryMode": false,
 	"hideFreeplay": false,
-	"difficulties": "Normal,Hard"
+	"difficulties": ""
 }
