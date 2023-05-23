@@ -1634,13 +1634,6 @@
 						64273.7430167599,
 						7,
 						0
-					],
-					[
-						64273.7430167599,
-						-1,
-						"Change Character",
-						"0",
-						"pico-player"
 					]
 				],
 				"lengthInSteps": 16,
@@ -2411,13 +2404,6 @@
 						85726.2569832404,
 						4,
 						0
-					],
-					[
-						85391.0614525141,
-						-1,
-						"Change Character",
-						"0",
-						"spooky"
 					]
 				],
 				"lengthInSteps": 16,
@@ -3631,20 +3617,6 @@
 						117905.027932961,
 						5,
 						0
-					],
-					[
-						117402.234636872,
-						-1,
-						"Change Character",
-						"0",
-						"mom-car"
-					],
-					[
-						117486.033519553,
-						-1,
-						"Change Character",
-						"1",
-						"dad"
 					]
 				],
 				"typeOfSection": 0,
@@ -4945,20 +4917,6 @@
 						139106.145251397,
 						3,
 						0
-					],
-					[
-						138938.547486034,
-						-1,
-						"Change Character",
-						"0",
-						"bf"
-					],
-					[
-						138770.949720671,
-						-1,
-						"Change Character",
-						"1",
-						"dearestresist"
 					]
 				],
 				"typeOfSection": 0,
@@ -6971,20 +6929,6 @@
 						182262.569832402,
 						2,
 						0
-					],
-					[
-						181256.983240223,
-						-1,
-						"Play Animation",
-						"0",
-						"fall"
-					],
-					[
-						182011.173184357,
-						-1,
-						"Change Character",
-						"1",
-						"dad"
 					]
 				],
 				"altAnim": false,
@@ -7720,13 +7664,6 @@
 						202122.905027933,
 						1,
 						251.396648044693
-					],
-					[
-						202122.905027933,
-						-1,
-						"Alt Idle Animation",
-						"0",
-						"ALT"
 					]
 				],
 				"altAnim": false,
@@ -7943,6 +7880,15 @@
 				"bpm": 179,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 179,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"player3": "gf",
