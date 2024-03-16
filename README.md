@@ -2,14 +2,16 @@
 
 https://forfourfnf.github.io/deathmatch
 
+# Difficulty Changes
+
 # Fresh
 
 Normal - Original Song And Chart
 
-Hard - Instrumental (Remix) Voices (Original)
+Hard - Remixed Song And Chart
 
 # Dad Battle
 
-Normal - Remixed Song And Chart
+Normal - Instrumental (Original) Voices (Remix)
 
-Hard - Instrumental (Original) Voices (Remix)
+Hard - Instrumental (Remix) Voices (Original)
